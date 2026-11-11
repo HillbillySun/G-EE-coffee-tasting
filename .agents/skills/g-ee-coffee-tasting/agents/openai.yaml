@@ -1,0 +1,4 @@
+interface:
+  display_name: "G-EE-coffee-tasting"
+  short_description: "把咖啡豆资料写成浮夸、风味密集、具体又有点好笑的中文饮咖日记"
+  default_prompt: "用 $g-ee-coffee-tasting 把这支咖啡豆写成一篇浮夸的长日记，把相近和可能伴随的风味也一路联想出来。"
