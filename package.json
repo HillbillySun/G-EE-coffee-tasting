@@ -1,0 +1,20 @@
+{
+  "name": "g-ee-coffee-tasting",
+  "version": "0.1.0",
+  "description": "Install the G-EE coffee tasting skill for Codex.",
+  "type": "module",
+  "bin": {
+    "g-ee-coffee-tasting": "bin/g-ee-coffee-tasting.js"
+  },
+  "files": [
+    "bin/g-ee-coffee-tasting.js",
+    ".agents/skills/g-ee-coffee-tasting/"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HillbillySun/G-EE-coffee-tasting.git"
+  }
+}
