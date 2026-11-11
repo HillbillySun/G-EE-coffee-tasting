@@ -1,6 +1,6 @@
 {
   "name": "g-ee-coffee-tasting",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Install the G-EE coffee tasting skill for Codex.",
   "type": "module",
   "bin": {
